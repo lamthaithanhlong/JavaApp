@@ -44,7 +44,7 @@ public class Login_Form extends JFrame {
 
 	/**
 	 * Create the frame.
-	 */
+	 */	
 	public Login_Form() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(150, 150, 650, 500);
